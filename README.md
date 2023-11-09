@@ -13,7 +13,7 @@ Charts (Visualization 2, 3, and 4): Provide detailed breakdowns of land quality,
 
 **Data Source**
 
-The data used in these visualizations are sourced from https://www.realtor.com/research/data/.
+The data used in these visualizations are sourced from https://www.realtor.com/research/data/.  The data was cleaned using the Python Pandas library.
 
 **Running the Project**
 
