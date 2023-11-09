@@ -18,5 +18,3 @@ The project has been hosted by GitHub Pages, the following link can be used to v
 
 Contact Information
 For any further queries or to discuss collaboration opportunities, please contact Jeff Alder at jeffjalder@gmail.com.
-
-![Alt text](image.png)
