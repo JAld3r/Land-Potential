@@ -17,7 +17,7 @@ The data used in these visualizations are sourced from https://www.realtor.com/r
 
 **Running the Project**
 
-The project has been hosted by GitHub Pages, the following link can be used to view the visualizations: https://jald3r.github.io/Land-Potential/
+The project can be accessed on Tableau Public, the following link can be used to view the visualizations: https://public.tableau.com/app/profile/jeffrey.alder/viz/LandPotential/ZipCodeHotnessHeatmap
 
 **Contact Information**
 
